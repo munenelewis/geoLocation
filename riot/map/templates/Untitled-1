@@ -1,0 +1,49 @@
+           title: 'kawangware',
+                    location: {
+                        lat: 1.2827,
+                        lng: 36.7523
+                    }
+                }, {
+                    title: 'Juja',
+                    location: {
+                        lat: 1.1018,
+                        lng: 37.0144
+                    }
+                }, {
+                    title: 'Thika',
+                    location: {
+                        lat: 1.0388,
+                        lng: 37.0834
+                    }
+                }, {
+                    title: 'Ngong',
+                    location: {
+                        lat: 1.3562,
+                        lng: 36.6688
+                    }
+                }, {
+                    title: 'Ruiru',
+                    location: {
+                        lat: 1.1483,
+                        lng: 36.9605
+                    }
+                },
+
+
+                {
+                    title: 'nairobi',
+                    location: {
+                        lat: 0.0236,
+                        lng: 37.9062
+                    }
+                },
+
+                {
+                    title: 'Chinatown Homey Space',
+                    location: {
+                        lat: 40.7180628,
+                        lng: -73.9961237
+                    }
+
+                }
+            ];
